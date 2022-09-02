@@ -1,4 +1,4 @@
-package co.wordbe.kotlinwebflux
+package co.wordbe.kotlinwebflux.handler
 
 import org.springframework.stereotype.Component
 import org.springframework.web.reactive.function.server.ServerRequest
